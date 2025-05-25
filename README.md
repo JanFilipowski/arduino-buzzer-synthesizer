@@ -2,6 +2,8 @@
 
 A portable MIDI-like player for Arduino that reads musical note events from CSV files stored on an SD card and plays them through multiple buzzers, with a TFT/OLED display interface and controls for playback, speed, and transposition.
 
+![Image](https://github.com/user-attachments/assets/8b28e914-1fb5-4081-8647-b3b4538a8b86)
+
 ## Features
 
 * Browse and select CSV files from an SD card
