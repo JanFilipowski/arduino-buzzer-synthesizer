@@ -47,6 +47,8 @@ A portable MIDI-like player for Arduino that reads musical note events from CSV 
 |   |-- SD
 |   |-- TimerFreeTone
 |   `-- Tone
+|-- midi_csv_generator
+|   `-- main.py
 |-- platformio.ini
 |-- src
 |   |-- logger.cpp
